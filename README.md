@@ -12,3 +12,7 @@ The simulation runs in steps. Each time step consists of the elevator moving a s
 To run the elevator simulator run command 
 `python3 result.py`
 Enter the dest_floor and direction as per choice
+
+
+
+![result](result.png)
